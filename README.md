@@ -1,12 +1,8 @@
 # DDR Pad Build
-*Last Updated: 09-14-22*
-
-**Progress: Complete**
-
---
+*Last Updated: 09-14-22* - *Progress: Complete*
 
 Video Preview:
-* https://drive.google.com/file/d/1P_XRcj81ezTKjtoF2oQaf90bWCNSWTdR/view?usp=share_link
+https://drive.google.com/file/d/1P_XRcj81ezTKjtoF2oQaf90bWCNSWTdR/view?usp=share_link
 ![enter image description here](https://i.imgur.com/nr7AmzJ.png)
 
 ## Introduction
